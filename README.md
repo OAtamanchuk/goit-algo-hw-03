@@ -30,9 +30,9 @@ Ignores time (hours, minutes, seconds).
 
 Generates a set of unique random numbers within a specified range.
 Parameters:
-- min — minimum possible number (≥ 1)
-- max — maximum possible number (≤ 1000)
-- quantity — amount of numbers to generate
+- min - minimum possible number (≥ 1)
+- max - maximum possible number (≤ 1000)
+- quantity - amount of numbers to generate
   
 Returns a sorted list of unique numbers.
 Returns an empty list if input parameters are invalid.
