@@ -8,9 +8,9 @@ The project focuses on implementing practical utility functions using core Pytho
 The project is implemented using the following technologies:
 - Python 3
 - Standard Python libraries:
-  - datetime — date and time calculations
-  - random — random number generation
-  - re — regular expressions for string processing
+  - datetime - date and time calculations
+  - random - random number generation
+  - re - regular expressions for string processing
 -Basic algorithmic techniques
 
 No external dependencies are required.
